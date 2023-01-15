@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(27, 27, 27);
+    color: aliceblue;
+    padding: 20px;
+}
+
+.container{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+
+
+
+ul,li{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    flex: 100%;
+}
+
+ul li{
+    width: 20%;
+}
+
+
+
+
+.main{
+    display: flex;
+    height: auto;
+}
+
+
+
+
+
+.footer img{
+    
+    height: 200px;
+}
