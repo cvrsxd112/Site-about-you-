@@ -1,7 +1,9 @@
 body{
     background-color: rgb(27, 27, 27);
     color: aliceblue;
-    padding: 20px;
+    padding: 100px;
+    font-family: 'Shadows Into Light', cursive;
+ 
 }
 
 .container{
@@ -47,3 +49,4 @@ ul li{
     
     height: 200px;
 }
+
